@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/natour/static/css/main.6507d899.chunk.css",
+    "main.js": "/natour/static/js/main.82bc30ae.chunk.js",
+    "main.js.map": "/natour/static/js/main.82bc30ae.chunk.js.map",
+    "runtime-main.js": "/natour/static/js/runtime-main.1ced05a2.js",
+    "runtime-main.js.map": "/natour/static/js/runtime-main.1ced05a2.js.map",
+    "static/js/2.6306175b.chunk.js": "/natour/static/js/2.6306175b.chunk.js",
+    "static/js/2.6306175b.chunk.js.map": "/natour/static/js/2.6306175b.chunk.js.map",
+    "index.html": "/natour/index.html",
+    "precache-manifest.18373a96304977e386a46716210d2d50.js": "/natour/precache-manifest.18373a96304977e386a46716210d2d50.js",
+    "service-worker.js": "/natour/service-worker.js",
+    "static/css/main.6507d899.chunk.css.map": "/natour/static/css/main.6507d899.chunk.css.map",
+    "static/js/2.6306175b.chunk.js.LICENSE.txt": "/natour/static/js/2.6306175b.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/natour/static/media/nat-7.5f846d16.jpg",
+    "static/media/logo-green-1x.png": "/natour/static/media/logo-green-1x.4c42c11f.png",
+    "static/media/logo-green-2x.png": "/natour/static/media/logo-green-2x.3365abba.png",
+    "static/media/logo-green-small-2x.png": "/natour/static/media/logo-green-small-2x.888043d5.png",
+    "static/media/logo-white.png": "/natour/static/media/logo-white.40d4ef82.png",
+    "static/media/nat-1-large.jpg": "/natour/static/media/nat-1-large.7fdf2a88.jpg",
+    "static/media/nat-1.jpg": "/natour/static/media/nat-1.d6c15bf0.jpg",
+    "static/media/nat-2-large.jpg": "/natour/static/media/nat-2-large.7a25f199.jpg",
+    "static/media/nat-2.jpg": "/natour/static/media/nat-2.4d378368.jpg",
+    "static/media/nat-3-large.jpg": "/natour/static/media/nat-3-large.417d3d74.jpg",
+    "static/media/nat-3.jpg": "/natour/static/media/nat-3.cc2b0543.jpg",
+    "static/media/nat-8.jpg": "/natour/static/media/nat-8.14efd82b.jpg",
+    "static/media/nat-9.jpg": "/natour/static/media/nat-9.b525a99b.jpg",
+    "static/media/video.webm": "/natour/static/media/video.f556a2c3.webm",
+    "static/media/video.mp4": "/natour/static/media/video.ffcd876c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ced05a2.js",
+    "static/js/2.6306175b.chunk.js",
+    "static/css/main.6507d899.chunk.css",
+    "static/js/main.82bc30ae.chunk.js"
+  ]
+}
